@@ -1,7 +1,7 @@
 # Cours 8
 ## Création de palette de couleur
 Joindre la palette de couleur que vous avez sélectionnée pour la présentation 2 dans votre journal de bord.   
-
+https://coolors.co/03071e-370617-6a040f-9d0208-d00000-dc2f02-e85d04-f48c06-faa307-ffba08
 Suggestions de sites où trouver des palettes de couleur: 
 * [Coolors](https://coolors.co/)
 * [Adobe coulor](https://color.adobe.com/fr/create/color-wheel)
