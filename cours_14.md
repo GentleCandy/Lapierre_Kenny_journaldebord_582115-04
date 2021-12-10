@@ -16,9 +16,23 @@ Expliquer le déroulement de votre expérience grâce à un schéma narratif ou 
 
 ### Moodboard
 Montrer nous l'allure visuelle et sonore qu'aura votre projet à l'aide d'un moodboard, de maquettes ou de croquis. 
+![2021-12-10 10_24_18-Window](https://user-images.githubusercontent.com/89648285/145598344-a239ba9b-c1ca-4faa-b88f-dc209835c3b9.png)
 
 ### Technologies
 Décrivez quelles seront les technologies utilisées dans votre projet. 
-
+Animations 3D
+Modélisations 3D
+Programmation
+Conception Sonores
 ### Étapes de réalisation
 Quelles sont les étapes nécessaires à la réalisation de votre projet? Essayez de placer ces étapes dans un échéancier. 
+Programmation
+Animation 3d
+Modélisation 3d
+Textures
+Gestionnaire du projet
+Conception Sonore
+Conceptions des personnages
+Sphérographe
+Biologiste
+Voice Act
